@@ -22,8 +22,7 @@ namespace choix_des_options
 
             //declaration de la liste des etudiants 
 
-            var liste = new List<Tuple<Etudiant, string, string, string>>();
-
+            var liste = new List<Tuple<Etudiant, string, string, string>>() ;
 
             // la liste d'etudiants 
             
